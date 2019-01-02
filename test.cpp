@@ -1,5 +1,5 @@
 #include <iostream>
 int main() {
-  std::cout<<"test"<<std::endl;
+  std::cout<<"test (updated from local test branch)"<<std::endl;
   return 0;
 }
